@@ -5,7 +5,8 @@
 #define PIN_TX    10
 #define PIN_RX    11
 
-#define PHONE_NUMBER "9960946502"  
+//Enter Your Mobile No
+#define PHONE_NUMBER "90**55565"  
 
 char MESSAGE[300];
 
